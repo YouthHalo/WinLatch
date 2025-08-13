@@ -1,5 +1,9 @@
 # WinLatch - Window Black Bar Manager
 
+
+> **Note**: This project is currently a work in progress (WIP). Features will be added as development continues.
+
+
 WinLatch is a Windows application that helps manage fullscreen and borderless fullscreen windows to reposition or remove black bars, particularly useful for games running in different aspect ratios.
 
 ## Features
@@ -14,7 +18,7 @@ WinLatch is a Windows application that helps manage fullscreen and borderless fu
 ## Use Cases
 
 ### Gaming Examples
-- **Elden Ring on 16:10 monitor**: Move all black bars to the bottom for a cleaner look
+- **16:9 on 16:10 laptop**: Move all black bars to the bottom for a cleaner look
 - **16:9 games on ultrawide**: Position the game to the left and use the right side for other applications
 - **Emulation**: Add console logos or branding to black bar areas
 - **Streaming**: Add overlays with stream information or branding
